@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  15 JAN 2018 22:07
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  15 JAN 2018 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,49 +319,37 @@ File: lecture2g.png Graphic file (type png)
  <use lecture2g.png>
 Package pdftex.def Info: lecture2g.png used on input line 147.
 (pdftex.def)             Requested size: 341.27415pt x 158.59209pt.
-
-<lecture2h.png, id=41, 284.06125pt x 60.225pt>
-File: lecture2h.png Graphic file (type png)
- <use lecture2h.png>
-Package pdftex.def Info: lecture2h.png used on input line 168.
-(pdftex.def)             Requested size: 284.06053pt x 60.22484pt.
- [6 <./lecture2g.png> <./lecture2h.png>] <lecture2i.png, id=47, 298.11375pt x 7
-3.27374pt>
-File: lecture2i.png Graphic file (type png)
-
-<use lecture2i.png>
-Package pdftex.def Info: lecture2i.png used on input line 175.
-(pdftex.def)             Requested size: 298.11302pt x 73.27354pt.
- <lecture2j.png, id=48, 284.06125pt x 35.13126pt>
+ [6 <./lecture2g.png>] <lecture2j.png, id=45, 284.06125pt x 35.13126pt>
 File: lecture2j.png Graphic file (type png)
-
-<use lecture2j.png>
+ <use lecture2j.png>
 Package pdftex.def Info: lecture2j.png used on input line 179.
 (pdftex.def)             Requested size: 284.06053pt x 35.13115pt.
+
+<lecture2h.png, id=46, 284.06125pt x 60.225pt>
 File: lecture2h.png Graphic file (type png)
  <use lecture2h.png>
 Package pdftex.def Info: lecture2h.png used on input line 184.
 (pdftex.def)             Requested size: 284.06053pt x 60.22484pt.
 
-<lecture2k.png, id=49, 293.095pt x 86.3225pt>
+<lecture2k.png, id=47, 293.095pt x 86.3225pt>
 File: lecture2k.png Graphic file (type png)
  <use lecture2k.png>
 Package pdftex.def Info: lecture2k.png used on input line 189.
 (pdftex.def)             Requested size: 293.09427pt x 86.32227pt.
 
-<lecture2l.png, id=50, 284.06125pt x 293.095pt>
+<lecture2l.png, id=48, 284.06125pt x 293.095pt>
 File: lecture2l.png Graphic file (type png)
  <use lecture2l.png>
 Package pdftex.def Info: lecture2l.png used on input line 198.
 (pdftex.def)             Requested size: 284.06053pt x 293.09427pt.
- [7 <./lecture2i.png> <./lecture2j.png> <./lecture2k.png>] [8 <./lecture2l.png>
+ [7 <./lecture2j.png> <./lecture2h.png> <./lecture2k.png> <./lecture2l.png>] [8
 ]
 (./Lecture 2.aux) ) 
 Here is how much of TeX's memory you used:
- 2738 strings out of 492995
- 37955 string characters out of 6132704
+ 2733 strings out of 492995
+ 37871 string characters out of 6132704
  109476 words of memory out of 5000000
- 6253 multiletter control sequences out of 15000+600000
+ 6249 multiletter control sequences out of 15000+600000
  10232 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,4n,28p,244b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -375,10 +363,10 @@ cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
 .pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb>
-Output written on "Lecture 2.pdf" (8 pages, 827053 bytes).
+Output written on "Lecture 2.pdf" (8 pages, 811117 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
+ 90 PDF objects out of 1000 (max. 8388607)
  48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
