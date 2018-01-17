@@ -2,14 +2,23 @@
 \usepackage{url, graphicx}
 \usepackage{geometry}
 \usepackage{amsmath}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
 
-
-\title{\huge Lecture 1}
+\title{\huge Lecture 1: Introduction: Good vs Bad Algorithms; Cryptography. }
 \author{}
 \date{}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{COMP 251 Winter 2018}
+\rhead{Lecture 1}
+\lfoot{$8^{th}$ Jan, 2018}
+\rfoot{\copyright{}Yutong Yan}
+\cfoot{\thepage}
 
 \begin{document}
 \maketitle
+
 
 \section{The Central Paradigm of Computer Science}
 \renewcommand{\labelitemii}{$\circ$}
@@ -167,7 +176,7 @@
 		\item Private Key ($q_1$, $q_2$, x) where x is the inverse of p mod ($q_{1}$ - 1) $\cdot$ 			($q_{2}$ - 1) \\
 		\noindent x = 33 as 3 $\cdot$ 7 = 1 mod 20\\
 		\noindent Public: n = 33, p = 7 \\
-		\noindent Private $q_1$ = 3, $q_2$ = 11, x = 3\\
+		\noindent Private $q_1$ = 3, $q_2$ = 11, x = 3
 			\begin{center}
 			\includegraphics{lecture1e}
 			\end{center}
