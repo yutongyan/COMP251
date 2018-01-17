@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  15 JAN 2018 19:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  16 JAN 2018 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -147,18 +147,18 @@ LaTeX Info: Redefining \] on input line 2818.
 (./Lecture 1.aux)
 \openout1 = `"Lecture 1.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -223,19 +223,19 @@ e
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69684pt
-* \textheight=731.23582pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -253,17 +253,17 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
 
 <lecture1a.png, id=1, 284.06125pt x 190.7125pt>
 File: lecture1a.png Graphic file (type png)
  <use lecture1a.png>
-Package pdftex.def Info: lecture1a.png used on input line 39.
+Package pdftex.def Info: lecture1a.png used on input line 34.
 (pdftex.def)             Requested size: 284.06053pt x 190.71202pt.
  [1
 
@@ -271,43 +271,42 @@ Package pdftex.def Info: lecture1a.png used on input line 39.
 re1a.png>] <lecture1b.png, id=17, 284.06125pt x 189.70876pt>
 File: lecture1b.png Graphic file (type png)
  <use lecture1b.png>
-Package pdftex.def Info: lecture1b.png used on input line 67.
+Package pdftex.def Info: lecture1b.png used on input line 62.
 (pdftex.def)             Requested size: 284.06053pt x 189.70828pt.
 
 <lecture1c.png, id=18, 227.85126pt x 281.05pt>
 File: lecture1c.png Graphic file (type png)
  <use lecture1c.png>
-Package pdftex.def Info: lecture1c.png used on input line 69.
+Package pdftex.def Info: lecture1c.png used on input line 64.
 (pdftex.def)             Requested size: 227.8507pt x 281.0493pt.
- [2 <./lecture1b.png> <./lecture1c.png>] <lecture1d.png, id=25, 284.06125pt x 1
-58.5925pt>
+ [2 <./lecture1b.png>] [3 <./lecture1c.png>]
+<lecture1d.png, id=28, 284.06125pt x 158.5925pt>
 File: lecture1d.png Graphic file (type png)
-
-<use lecture1d.png>
-Package pdftex.def Info: lecture1d.png used on input line 91.
+ <use lecture1d.png>
+Package pdftex.def Info: lecture1d.png used on input line 86.
 (pdftex.def)             Requested size: 284.06053pt x 158.59209pt.
- [3
+ [4
 
- <./lecture1d.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 172--176
+ <./lecture1d.png>] [5]
+Underfull \hbox (badness 10000) in paragraph at lines 167--171
 
  []
 
-<lecture1e.png, id=31, 284.06125pt x 292.09125pt>
+<lecture1e.png, id=37, 284.06125pt x 292.09125pt>
 File: lecture1e.png Graphic file (type png)
  <use lecture1e.png>
-Package pdftex.def Info: lecture1e.png used on input line 177.
+Package pdftex.def Info: lecture1e.png used on input line 172.
 (pdftex.def)             Requested size: 284.06053pt x 292.09052pt.
- [4]
-[5 <./lecture1e.png>] [6] (./Lecture 1.aux) ) 
+ [6]
+[7 <./lecture1e.png>] [8] (./Lecture 1.aux) ) 
 Here is how much of TeX's memory you used:
  2705 strings out of 492995
  37379 string characters out of 6132704
- 111454 words of memory out of 5000000
+ 110375 words of memory out of 5000000
  6225 multiletter control sequences out of 15000+600000
  10631 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,4n,28p,244b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,4n,25p,244b,379s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017/texmf-dis
@@ -319,10 +318,10 @@ ts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts
 pe1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmti12.pfb>
-Output written on "Lecture 1.pdf" (6 pages, 418792 bytes).
+Output written on "Lecture 1.pdf" (8 pages, 419530 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

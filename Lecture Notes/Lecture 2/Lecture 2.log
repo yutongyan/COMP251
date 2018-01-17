@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  16 JAN 2018 09:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  16 JAN 2018 19:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -147,18 +147,18 @@ LaTeX Info: Redefining \] on input line 2818.
 (./Lecture 2.aux)
 \openout1 = `"Lecture 2.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -223,19 +223,19 @@ e
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=483.69684pt
-* \textheight=731.23582pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=430.00462pt
+* \textheight=556.47656pt
+* \oddsidemargin=19.8752pt
+* \evensidemargin=19.8752pt
+* \topmargin=-13.87262pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=12.0pt
@@ -253,106 +253,115 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 23.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 16.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 23.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--46
+Underfull \hbox (badness 10000) in paragraph at lines 34--39
 
  []
 
 <lecture2a.png, id=1, 284.06125pt x 233.87375pt>
 File: lecture2a.png Graphic file (type png)
  <use lecture2a.png>
-Package pdftex.def Info: lecture2a.png used on input line 47.
+Package pdftex.def Info: lecture2a.png used on input line 40.
 (pdftex.def)             Requested size: 284.06053pt x 233.87315pt.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[1
-
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./lectu
-re2a.png>] <lecture2b.png, id=18, 341.275pt x 358.33875pt>
+[2 <./lecture2a.png>] <lecture2b.png, id=21, 341.275pt x 358.33875pt>
 File: lecture2b.png Graphic file (type png)
 
 <use lecture2b.png>
-Package pdftex.def Info: lecture2b.png used on input line 86.
+Package pdftex.def Info: lecture2b.png used on input line 79.
 (pdftex.def)             Requested size: 341.27415pt x 358.33788pt.
- <lecture2c.png, id=19, 341.275pt x 336.25626pt>
+ <lecture2c.png, id=22, 341.275pt x 336.25626pt>
 File: lecture2c.png Graphic file (type png)
 
 <use lecture2c.png>
-Package pdftex.def Info: lecture2c.png used on input line 87.
+Package pdftex.def Info: lecture2c.png used on input line 80.
 (pdftex.def)             Requested size: 341.27415pt x 336.25543pt.
- [2] [3 <./lecture2b.png> <./lecture2c.png>]
-<lecture2d.png, id=28, 341.275pt x 191.71625pt>
-File: lecture2d.png Graphic file (type png)
- <use lecture2d.png>
-Package pdftex.def Info: lecture2d.png used on input line 107.
-(pdftex.def)             Requested size: 341.27415pt x 191.71577pt.
 
-<lecture2e.png, id=29, 341.275pt x 296.10625pt>
+Overfull \hbox (20.19075pt too wide) in paragraph at lines 79--81
+ [] 
+ []
+
+
+Overfull \hbox (20.19075pt too wide) in paragraph at lines 79--81
+ [] 
+ []
+
+[3] [4 <./lecture2b.png>] <lecture2d.png, id=30, 341.275pt x 191.71625pt>
+File: lecture2d.png Graphic file (type png)
+
+<use lecture2d.png>
+Package pdftex.def Info: lecture2d.png used on input line 100.
+(pdftex.def)             Requested size: 341.27415pt x 191.71577pt.
+ [5 <./lecture2c.png>]
+<lecture2e.png, id=35, 341.275pt x 296.10625pt>
 File: lecture2e.png Graphic file (type png)
  <use lecture2e.png>
-Package pdftex.def Info: lecture2e.png used on input line 125.
+Package pdftex.def Info: lecture2e.png used on input line 118.
 (pdftex.def)             Requested size: 341.27415pt x 296.10551pt.
 
-<lecture2f.png, id=30, 341.275pt x 375.4025pt>
+<lecture2f.png, id=36, 341.275pt x 375.4025pt>
 File: lecture2f.png Graphic file (type png)
  <use lecture2f.png>
-Package pdftex.def Info: lecture2f.png used on input line 126.
+Package pdftex.def Info: lecture2f.png used on input line 119.
 (pdftex.def)             Requested size: 341.27415pt x 375.40158pt.
- [4 <./lecture2d.png>] [5 <./lecture2e.png> <./lecture2f.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 143--145
+ [6 <./lecture2d.png>] [7 <./lecture2e.png>] [8 <./lecture2f.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
 
  []
 
-<lecture2g.png, id=40, 341.275pt x 158.5925pt>
+<lecture2g.png, id=50, 341.275pt x 158.5925pt>
 File: lecture2g.png Graphic file (type png)
  <use lecture2g.png>
-Package pdftex.def Info: lecture2g.png used on input line 147.
+Package pdftex.def Info: lecture2g.png used on input line 140.
 (pdftex.def)             Requested size: 341.27415pt x 158.59209pt.
- [6 <./lecture2g.png>] <lecture2j.png, id=45, 284.06125pt x 35.13126pt>
+ [9 <./lecture2g.png>] <lecture2j.png, id=55, 284.06125pt x 35.13126pt>
 File: lecture2j.png Graphic file (type png)
  <use lecture2j.png>
-Package pdftex.def Info: lecture2j.png used on input line 179.
+Package pdftex.def Info: lecture2j.png used on input line 172.
 (pdftex.def)             Requested size: 284.06053pt x 35.13115pt.
 
-<lecture2h.png, id=46, 284.06125pt x 60.225pt>
+<lecture2h.png, id=56, 284.06125pt x 60.225pt>
 File: lecture2h.png Graphic file (type png)
  <use lecture2h.png>
-Package pdftex.def Info: lecture2h.png used on input line 184.
+Package pdftex.def Info: lecture2h.png used on input line 177.
 (pdftex.def)             Requested size: 284.06053pt x 60.22484pt.
 
-<lecture2k.png, id=47, 293.095pt x 86.3225pt>
+<lecture2k.png, id=57, 293.095pt x 86.3225pt>
 File: lecture2k.png Graphic file (type png)
  <use lecture2k.png>
-Package pdftex.def Info: lecture2k.png used on input line 189.
+Package pdftex.def Info: lecture2k.png used on input line 182.
 (pdftex.def)             Requested size: 293.09427pt x 86.32227pt.
 
-<lecture2l.png, id=48, 284.06125pt x 293.095pt>
+<lecture2l.png, id=58, 284.06125pt x 293.095pt>
 File: lecture2l.png Graphic file (type png)
  <use lecture2l.png>
-Package pdftex.def Info: lecture2l.png used on input line 198.
+Package pdftex.def Info: lecture2l.png used on input line 191.
 (pdftex.def)             Requested size: 284.06053pt x 293.09427pt.
- [7 <./lecture2j.png> <./lecture2h.png> <./lecture2k.png> <./lecture2l.png>] [8
-]
+ [10 <./lecture2j.png> <./lecture2h.png> <./lecture2k.png>] [11 <./lecture2l.pn
+g>]
 (./Lecture 2.aux) ) 
 Here is how much of TeX's memory you used:
  2733 strings out of 492995
  37871 string characters out of 6132704
- 109476 words of memory out of 5000000
+ 108397 words of memory out of 5000000
  6249 multiletter control sequences out of 15000+600000
  10232 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,4n,28p,244b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,4n,25p,252b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
@@ -363,10 +372,10 @@ cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7
 .pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
 pfb>
-Output written on "Lecture 2.pdf" (8 pages, 811117 bytes).
+Output written on "Lecture 2.pdf" (11 pages, 812209 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 54 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
