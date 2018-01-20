@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  16 JAN 2018 20:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  20 JAN 2018 13:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -485,7 +485,7 @@ cture3u.png>] (./Lecture 3.aux) )
 Here is how much of TeX's memory you used:
  2916 strings out of 492995
  40148 string characters out of 6132704
- 110547 words of memory out of 5000000
+ 110546 words of memory out of 5000000
  6417 multiletter control sequences out of 15000+600000
  10579 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -501,7 +501,7 @@ amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti12.pfb>
-Output written on "Lecture 3.pdf" (17 pages, 2037713 bytes).
+Output written on "Lecture 3.pdf" (17 pages, 2037666 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
