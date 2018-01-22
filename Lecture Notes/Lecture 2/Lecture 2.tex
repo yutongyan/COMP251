@@ -73,13 +73,15 @@
 	\item If so, is it efficient (polynomial time)?\\
 	\noindent Yes! Look at the recursive formula.
 		\begin{itemize}
-		\item To analyze this we represent the running time $T$ (n) via a \textbf{recurrence}:\\
-		\hspace*{\fill}{\large Recursive Formula: $T$(n) = 2 $\cdot$ $T$($\frac{n}{2}$) + c $\cdot$ n}\hspace*{\fill} 
+		\item To analyze this we represent the running time $T$ (n) via a \textbf{recurrence}:
+		\begin{center}
+		 {\large $T$(n) = 2 $\cdot$ $T$($\frac{n}{2}$) + c $\cdot$ n}
+		\end{center}
 			\begin{itemize}
 			\item 2 $\cdot$ $T$($\frac{n}{2}$): Recuse on two problems with half the size.
 			\item c $\cdot$ n: It takes linear time to merge two sorted lists.
 			\end{itemize}
-		\hspace*{\fill}{\large Base Case: $T$(1) = 1}\hspace*{\fill} 
+		\hspace*{\fill} Base Case: $T$(1) = 1\hspace*{\fill} 
 			\begin{itemize}
 			\item Or we can use $T$(c) = $O$(1) for any constant c.
 			\end{itemize}
@@ -90,7 +92,7 @@
 				\begin{enumerate}
 				\item By adding dummy numbers, we may assume n is a power of two: n = 						$2^k$
 				\item We can unwind the recursive formula as follows:\\
-				\hspace*{\fill}\large{$T$(n) = 2 $\cdot$ $T$($\frac{n}{2}$) + c $\cdot$ n}\hspace*{\fill}
+				\hspace*{\fill} {\large$T$(n) = 2 $\cdot$ $T$($\frac{n}{2}$) + c $\cdot$ n}\hspace*{\fill}
 				\begin{center}
 				\includegraphics{lecture2b}
 				\includegraphics{lecture2c}
