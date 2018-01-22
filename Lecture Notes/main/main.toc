@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}The Central Paradigm of Computer Science}{1}
+\contentsline {section}{\numberline {2}Good versus Bad (Algorithms)}{2}
+\contentsline {section}{\numberline {3}An Equivalent Characterization}{2}
+\contentsline {section}{\numberline {4}Robustness}{4}
+\contentsline {section}{\numberline {5}Cryptography (Just an example of the course)}{4}
+\contentsline {section}{\numberline {6}Reductions and Sub-Routines}{7}
+\contentsline {section}{\numberline {7}MergeSort}{8}
+\contentsline {section}{\numberline {8}Binary Search}{10}
+\contentsline {section}{\numberline {9}Divide and Conquer Algorithms}{12}
+\contentsline {section}{\numberline {10}Non-Military Applications of Divide and Conquer}{13}
+\contentsline {section}{\numberline {11}Dummy Entries}{13}

@@ -1,0 +1,13 @@
+\documentclass{article}% or something else
+\usepackage{pdfpages}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\pagestyle{plain}
+\cfoot{\thepage}
+\begin{document}
+\includepdf[pagecommand={\thispagestyle{plain}}, pages=-]{lecture1.pdf}
+\includepdf[pagecommand={\thispagestyle{plain}}, pages=-]{lecture2.pdf}
+\includepdf[pagecommand={\thispagestyle{plain}}, pages=-]{lecture3.pdf}
+\includepdf[pagecommand={\thispagestyle{plain}}, pages=-]{lecture4.pdf}
+\includepdf[pagecommand={\thispagestyle{plain}}, pages=-]{lecture5.pdf}
+\end{document}

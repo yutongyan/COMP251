@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -155,6 +155,9 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@erf=\skip52
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/nopageno/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
 )
 (./Lecture 1.aux)
 \openout1 = `"Lecture 1.aux"'.
@@ -314,10 +317,10 @@ Package pdftex.def Info: lecture1e.png used on input line 188.
 (pdftex.def)             Requested size: 284.06053pt x 292.09052pt.
  [6] [7 <./lecture1e.png>] [8] (./Lecture 1.aux) ) 
 Here is how much of TeX's memory you used:
- 2838 strings out of 492995
- 38830 string characters out of 6132704
- 112549 words of memory out of 5000000
- 6354 multiletter control sequences out of 15000+600000
+ 2845 strings out of 492995
+ 39073 string characters out of 6132704
+ 112586 words of memory out of 5000000
+ 6357 multiletter control sequences out of 15000+600000
  10631 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,43p,244b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -332,7 +335,7 @@ fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Lecture 1.pdf" (8 pages, 425543 bytes).
+Output written on "Lecture 1.pdf" (8 pages, 425499 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream

@@ -3,6 +3,7 @@
 \usepackage{geometry}
 \usepackage{amsmath}
 \usepackage{fancyhdr}
+\usepackage{nopageno}
 \pagestyle{fancy}
 
 \title{\huge Lecture 2: Recursive Algorithms: MergeSort; Binary Search; The Master Theorem; The Recursive Tree Method}
@@ -14,7 +15,7 @@
 \rhead{Lecture 2}
 \lfoot{$10^{th}$ Jan, 2018}
 \rfoot{\copyright{}Yutong Yan}
-\cfoot{\thepage}
+
 
 
 
@@ -73,12 +74,12 @@
 	\noindent Yes! Look at the recursive formula.
 		\begin{itemize}
 		\item To analyze this we represent the running time $T$ (n) via a \textbf{recurrence}:\\
-		\hspace*{\fill}\large{Recursive Formula: $T$(n) = 2 $\cdot$ $T$($\frac{n}{2}$) + c $\cdot$ n}\hspace*{\fill} 
+		\hspace*{\fill}{\large Recursive Formula: $T$(n) = 2 $\cdot$ $T$($\frac{n}{2}$) + c $\cdot$ n}\hspace*{\fill} 
 			\begin{itemize}
 			\item 2 $\cdot$ $T$($\frac{n}{2}$): Recuse on two problems with half the size.
 			\item c $\cdot$ n: It takes linear time to merge two sorted lists.
 			\end{itemize}
-		\hspace*{\fill}\large{Base Case: $T$(1) = 1}\hspace*{\fill} 
+		\hspace*{\fill}{\large Base Case: $T$(1) = 1}\hspace*{\fill} 
 			\begin{itemize}
 			\item Or we can use $T$(c) = $O$(1) for any constant c.
 			\end{itemize}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -156,21 +156,24 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
+(/usr/local/texlive/2017/texmf-dist/tex/latex/nopageno/nopageno.sty
+Package: nopageno 1989/01/01 no page numbers (DPC)
+)
 (./Lecture 3.aux)
 \openout1 = `"Lecture 3.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -265,17 +268,17 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 26.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 26.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
 
 <lecture3a.png, id=1, 341.275pt x 124.465pt>
 File: lecture3a.png Graphic file (type png)
  <use lecture3a.png>
-Package pdftex.def Info: lecture3a.png used on input line 48.
+Package pdftex.def Info: lecture3a.png used on input line 49.
 (pdftex.def)             Requested size: 341.27415pt x 124.46469pt.
  [1
 
@@ -283,70 +286,70 @@ Package pdftex.def Info: lecture3a.png used on input line 48.
 <lecture3b.png, id=16, 341.275pt x 163.61125pt>
 File: lecture3b.png Graphic file (type png)
  <use lecture3b.png>
-Package pdftex.def Info: lecture3b.png used on input line 52.
+Package pdftex.def Info: lecture3b.png used on input line 53.
 (pdftex.def)             Requested size: 341.27415pt x 163.61084pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 55--68
+Underfull \hbox (badness 10000) in paragraph at lines 56--69
 
  []
 
@@ -360,124 +363,124 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 <lecture3c.png, id=22, 341.275pt x 361.35pt>
 File: lecture3c.png Graphic file (type png)
  <use lecture3c.png>
-Package pdftex.def Info: lecture3c.png used on input line 75.
+Package pdftex.def Info: lecture3c.png used on input line 76.
 (pdftex.def)             Requested size: 341.27415pt x 361.34912pt.
 
 <lecture3d.png, id=23, 341.275pt x 299.1175pt>
 File: lecture3d.png Graphic file (type png)
  <use lecture3d.png>
-Package pdftex.def Info: lecture3d.png used on input line 79.
+Package pdftex.def Info: lecture3d.png used on input line 80.
 (pdftex.def)             Requested size: 341.27415pt x 299.11676pt.
  [3 <./lecture3c.png>] <lecture3e.png, id=28, 341.275pt x 199.74625pt>
 File: lecture3e.png Graphic file (type png)
  <use lecture3e.png>
-Package pdftex.def Info: lecture3e.png used on input line 84.
+Package pdftex.def Info: lecture3e.png used on input line 85.
 (pdftex.def)             Requested size: 341.27415pt x 199.74576pt.
 
 <lecture3f.png, id=29, 341.275pt x 342.27875pt>
 File: lecture3f.png Graphic file (type png)
  <use lecture3f.png>
-Package pdftex.def Info: lecture3f.png used on input line 85.
+Package pdftex.def Info: lecture3f.png used on input line 86.
 (pdftex.def)             Requested size: 341.27415pt x 342.2779pt.
 
 <lecture3g.png, id=30, 341.275pt x 366.36874pt>
 File: lecture3g.png Graphic file (type png)
  <use lecture3g.png>
-Package pdftex.def Info: lecture3g.png used on input line 86.
+Package pdftex.def Info: lecture3g.png used on input line 87.
 (pdftex.def)             Requested size: 341.27415pt x 366.36784pt.
 
 <lecture3h.png, id=31, 341.275pt x 424.58624pt>
 File: lecture3h.png Graphic file (type png)
  <use lecture3h.png>
-Package pdftex.def Info: lecture3h.png used on input line 87.
+Package pdftex.def Info: lecture3h.png used on input line 88.
 (pdftex.def)             Requested size: 341.27415pt x 424.5852pt.
  [4 <./lecture3d.png> <./lecture3e.png>] [5 <./lecture3f.png>] [6 <./lecture3g.
 png>]
 <lecture3i.png, id=45, 227.85126pt x 53.19875pt>
 File: lecture3i.png Graphic file (type png)
  <use lecture3i.png>
-Package pdftex.def Info: lecture3i.png used on input line 96.
+Package pdftex.def Info: lecture3i.png used on input line 97.
 (pdftex.def)             Requested size: 227.8507pt x 53.19861pt.
  [7 <./lecture3h.png>] <lecture3j.png, id=51, 227.85126pt x 71.26625pt>
 File: lecture3j.png Graphic file (type png)
 
 <use lecture3j.png>
-Package pdftex.def Info: lecture3j.png used on input line 100.
+Package pdftex.def Info: lecture3j.png used on input line 101.
 (pdftex.def)             Requested size: 227.8507pt x 71.26605pt.
  <lecture3k.png, id=52, 227.85126pt x 34.1275pt>
 File: lecture3k.png Graphic file (type png)
 
 <use lecture3k.png>
-Package pdftex.def Info: lecture3k.png used on input line 104.
+Package pdftex.def Info: lecture3k.png used on input line 105.
 (pdftex.def)             Requested size: 227.8507pt x 34.1274pt.
  <lecture3l.png, id=53, 227.85126pt x 88.33pt>
 File: lecture3l.png Graphic file (type png)
 
 <use lecture3l.png>
-Package pdftex.def Info: lecture3l.png used on input line 122.
+Package pdftex.def Info: lecture3l.png used on input line 123.
 (pdftex.def)             Requested size: 227.8507pt x 88.32977pt.
  <lecture3m.png, id=54, 341.275pt x 335.2525pt>
 File: lecture3m.png Graphic file (type png)
 
 <use lecture3m.png>
-Package pdftex.def Info: lecture3m.png used on input line 127.
+Package pdftex.def Info: lecture3m.png used on input line 128.
 (pdftex.def)             Requested size: 341.27415pt x 335.25168pt.
  [8 <./lecture3i.png> <./lecture3j.png> <./lecture3k.png> <./lecture3l.png>] <l
 ecture3n.png, id=63, 341.275pt x 365.365pt>
 File: lecture3n.png Graphic file (type png)
 
 <use lecture3n.png>
-Package pdftex.def Info: lecture3n.png used on input line 131.
+Package pdftex.def Info: lecture3n.png used on input line 132.
 (pdftex.def)             Requested size: 341.27415pt x 365.3641pt.
  [9 <./lecture3m.png>]
 <lecture3o.png, id=69, 264.99pt x 284.06125pt>
 File: lecture3o.png Graphic file (type png)
  <use lecture3o.png>
-Package pdftex.def Info: lecture3o.png used on input line 135.
+Package pdftex.def Info: lecture3o.png used on input line 136.
 (pdftex.def)             Requested size: 264.98935pt x 284.06053pt.
 
 <lecture3p.png, id=70, 284.06125pt x 303.1325pt>
 File: lecture3p.png Graphic file (type png)
  <use lecture3p.png>
-Package pdftex.def Info: lecture3p.png used on input line 136.
+Package pdftex.def Info: lecture3p.png used on input line 137.
 (pdftex.def)             Requested size: 284.06053pt x 303.13176pt.
 
 <lecture3q.png, id=71, 284.06125pt x 302.12875pt>
 File: lecture3q.png Graphic file (type png)
  <use lecture3q.png>
-Package pdftex.def Info: lecture3q.png used on input line 137.
+Package pdftex.def Info: lecture3q.png used on input line 138.
 (pdftex.def)             Requested size: 284.06053pt x 302.128pt.
 
 <lecture3r.png, id=72, 284.06125pt x 304.13625pt>
 File: lecture3r.png Graphic file (type png)
  <use lecture3r.png>
-Package pdftex.def Info: lecture3r.png used on input line 138.
+Package pdftex.def Info: lecture3r.png used on input line 139.
 (pdftex.def)             Requested size: 284.06053pt x 304.1355pt.
  [10 <./lecture3n.png>] [11 <./lecture3o.png>] [12 <./lecture3p.png>] [13 <./le
 cture3q.png>] <lecture3s.png, id=90, 284.06125pt x 301.125pt>
 File: lecture3s.png Graphic file (type png)
  <use lecture3s.png>
-Package pdftex.def Info: lecture3s.png used on input line 142.
+Package pdftex.def Info: lecture3s.png used on input line 143.
 (pdftex.def)             Requested size: 284.06053pt x 301.12425pt.
 
 <lecture3t.png, id=91, 284.06125pt x 301.125pt>
 File: lecture3t.png Graphic file (type png)
  <use lecture3t.png>
-Package pdftex.def Info: lecture3t.png used on input line 143.
+Package pdftex.def Info: lecture3t.png used on input line 144.
 (pdftex.def)             Requested size: 284.06053pt x 301.12425pt.
 
 <lecture3u.png, id=92, 284.06125pt x 300.12125pt>
 File: lecture3u.png Graphic file (type png)
  <use lecture3u.png>
-Package pdftex.def Info: lecture3u.png used on input line 144.
+Package pdftex.def Info: lecture3u.png used on input line 145.
 (pdftex.def)             Requested size: 284.06053pt x 300.12051pt.
  [14 <./lecture3r.png>] [15 <./lecture3s.png>] [16 <./lecture3t.png>] [17 <./le
 cture3u.png>] (./Lecture 3.aux) ) 
 Here is how much of TeX's memory you used:
- 2914 strings out of 492995
- 40115 string characters out of 6132704
- 110546 words of memory out of 5000000
- 6415 multiletter control sequences out of 15000+600000
+ 2921 strings out of 492995
+ 40358 string characters out of 6132704
+ 110583 words of memory out of 5000000
+ 6418 multiletter control sequences out of 15000+600000
  10272 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,43p,244b,498s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -492,7 +495,7 @@ amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti12.pfb>
-Output written on "Lecture 3.pdf" (17 pages, 2037526 bytes).
+Output written on "Lecture 3.pdf" (17 pages, 2036757 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  70 compressed objects within 1 object stream
