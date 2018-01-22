@@ -192,10 +192,11 @@ Note: Even though we now have 18 additions, the runtime is still dominated by th
 \forceindent \textbf{If} n is even \textbf{then} output \textbf{FastExp}$(x,[\frac{n}{2}])^2$\\
 \forceindent \textbf{If} n is odd \textbf{then} output \textbf{x $\cdot$ FastExp}$(x,[\frac{n}{2}])^2$
 }
-\item The number of multiplications used in Fast Exponentiation satisfies:\\
-\\
+\item The number of multiplications used in Fast Exponentiation satisfies:
+\begin{center}
 {\large
 $T$(n) $\leq$ $T$($[\frac{n}{2}]$) + 2 $\Rightarrow$ $T$(n) = $T$($\frac{n}{2}$) + $O$(1)}
+\end{center}
 \item Thus we have a = 1, b = 2, and d = 0.
 \item This is Case 2 of the Master Theorem.
 \item Runtime = $O$($n^0 \cdot log{}n$) = $O$($log{}n$)
