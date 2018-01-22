@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"Lecture 4.tex"
-(./Lecture 4.tex
+**"Lecture 5.tex"
+(./Lecture 5.tex
 LaTeX2e <2017-04-15>
 Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -156,21 +156,32 @@ Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(./Lecture 4.aux)
-\openout1 = `"Lecture 4.aux"'.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(./Lecture 5.aux)
+\openout1 = `"Lecture 5.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
 
 (/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -265,32 +276,62 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 31.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
 
-<lecture41.png, id=1, 284.06125pt x 215.80624pt>
-File: lecture41.png Graphic file (type png)
- <use lecture41.png>
-Package pdftex.def Info: lecture41.png used on input line 39.
-(pdftex.def)             Requested size: 284.06053pt x 215.80571pt.
- [1
+Underfull \hbox (badness 10000) in paragraph at lines 52--70
 
-{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./lectu
-re41.png>] <lecture42.png, id=17, 341.275pt x 214.8025pt>
-File: lecture42.png Graphic file (type png)
- <use lecture42.png>
-Package pdftex.def Info: lecture42.png used on input line 43.
-(pdftex.def)             Requested size: 341.27415pt x 214.80197pt.
+ []
 
-<lecture43.png, id=18, 341.275pt x 290.08376pt>
-File: lecture43.png Graphic file (type png)
- <use lecture43.png>
-Package pdftex.def Info: lecture43.png used on input line 55.
-(pdftex.def)             Requested size: 341.27415pt x 290.08304pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--70
+
+ []
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<lecture51.png, id=15, 341.275pt x 210.7875pt>
+File: lecture51.png Graphic file (type png)
+ <use lecture51.png>
+Package pdftex.def Info: lecture51.png used on input line 75.
+(pdftex.def)             Requested size: 341.27415pt x 210.78699pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+
+ []
+
+<lecture52.png, id=17, 341.275pt x 241.90375pt>
+File: lecture52.png Graphic file (type png)
+ <use lecture52.png>
+Package pdftex.def Info: lecture52.png used on input line 78.
+(pdftex.def)             Requested size: 341.27415pt x 241.90315pt.
 
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -298,66 +339,172 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2 <./lecture42.png>] [3 <./lecture43.png>]
-<lecture44.png, id=29, 398.48875pt x 191.71625pt>
-File: lecture44.png Graphic file (type png)
- <use lecture44.png>
-Package pdftex.def Info: lecture44.png used on input line 95.
-(pdftex.def)             Requested size: 398.48778pt x 191.71577pt.
- [4 <./lecture44.png>] <lecture45.png, id=35, 341.275pt x 204.765pt>
-File: lecture45.png Graphic file (type png)
- <use lecture45.png>
-Package pdftex.def Info: lecture45.png used on input line 129.
-(pdftex.def)             Requested size: 341.27415pt x 204.76448pt.
+[2 <./lecture51.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 79--91
 
-[5 <./lecture45.png>] <lecture46.png, id=41, 284.06125pt x 94.3525pt>
-File: lecture46.png Graphic file (type png)
+ []
 
-<use lecture46.png>
-Package pdftex.def Info: lecture46.png used on input line 140.
-(pdftex.def)             Requested size: 284.06053pt x 94.35225pt.
- <lecture47.png, id=42, 341.275pt x 189.70876pt>
-File: lecture47.png Graphic file (type png)
+[3 <./lecture52.png>] <lecture53.png, id=26, 341.275pt x 213.79875pt>
+File: lecture53.png Graphic file (type png)
 
-<use lecture47.png>
-Package pdftex.def Info: lecture47.png used on input line 156.
-(pdftex.def)             Requested size: 341.27415pt x 189.70828pt.
- [6 <./lecture46.png>] [7 <./lecture47.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 185--195
+<use lecture53.png>
+Package pdftex.def Info: lecture53.png used on input line 129.
+(pdftex.def)             Requested size: 341.27415pt x 213.79822pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--199
+Underfull \hbox (badness 10000) in paragraph at lines 116--131
 
  []
 
-[8] (./Lecture 4.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--131
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--131
+
+ []
+
+[4 <./lecture53.png>] <lecture54.png, id=31, 284.06125pt x 69.25874pt>
+File: lecture54.png Graphic file (type png)
+
+<use lecture54.png>
+Package pdftex.def Info: lecture54.png used on input line 135.
+(pdftex.def)             Requested size: 284.06053pt x 69.25856pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
+
+ []
+
+<lecture55.png, id=32, 284.06125pt x 68.255pt>
+File: lecture55.png Graphic file (type png)
+ <use lecture55.png>
+Package pdftex.def Info: lecture55.png used on input line 144.
+(pdftex.def)             Requested size: 284.06053pt x 68.25482pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--145
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[5 <./lecture54.png> <./lecture55.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--164
+
+ []
+
+<lecture56.png, id=39, 313.17pt x 214.8025pt>
+File: lecture56.png Graphic file (type png)
+ <use lecture56.png>
+Package pdftex.def Info: lecture56.png used on input line 187.
+(pdftex.def)             Requested size: 313.16922pt x 214.80197pt.
+ [6]
+<lecture57.png, id=45, 313.17pt x 235.88126pt>
+File: lecture57.png Graphic file (type png)
+ <use lecture57.png>
+Package pdftex.def Info: lecture57.png used on input line 190.
+(pdftex.def)             Requested size: 313.16922pt x 235.88068pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--194
+
+ []
+
+<lecture58.png, id=46, 227.85126pt x 167.62625pt>
+File: lecture58.png Graphic file (type png)
+ <use lecture58.png>
+Package pdftex.def Info: lecture58.png used on input line 197.
+(pdftex.def)             Requested size: 227.8507pt x 167.62582pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--198
+
+ []
+
+[7 <./lecture56.png> <./lecture57.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 198--201
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--224
+
+ []
+
+[8 <./lecture58.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 225--228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--233
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--233
+
+ []
+
+<lecture59.png, id=57, 284.06125pt x 283.0575pt>
+File: lecture59.png Graphic file (type png)
+ <use lecture59.png>
+Package pdftex.def Info: lecture59.png used on input line 244.
+(pdftex.def)             Requested size: 284.06053pt x 283.0568pt.
+
+<lecture510.png, id=58, 284.06125pt x 303.1325pt>
+File: lecture510.png Graphic file (type png)
+ <use lecture510.png>
+Package pdftex.def Info: lecture510.png used on input line 245.
+(pdftex.def)             Requested size: 284.06053pt x 303.13176pt.
+ [9]
+[10 <./lecture59.png>] [11 <./lecture510.png>] (./Lecture 5.aux) ) 
 Here is how much of TeX's memory you used:
- 2846 strings out of 492995
- 38967 string characters out of 6132704
- 110581 words of memory out of 5000000
- 6361 multiletter control sequences out of 15000+600000
- 10579 words of font info for 38 fonts, out of 8000000 for 9000
+ 3120 strings out of 492995
+ 43436 string characters out of 6132704
+ 117900 words of memory out of 5000000
+ 6624 multiletter control sequences out of 15000+600000
+ 11418 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,14n,43p,273b,372s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.
-pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pf
-b>
-Output written on "Lecture 4.pdf" (8 pages, 780213 bytes).
+ 39i,15n,43p,376b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Lecture 5.pdf" (11 pages, 1042892 bytes).
 PDF statistics:
- 94 PDF objects out of 1000 (max. 8388607)
- 57 compressed objects within 1 object stream
+ 109 PDF objects out of 1000 (max. 8388607)
+ 63 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

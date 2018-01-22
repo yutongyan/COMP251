@@ -34,8 +34,8 @@
 \item Russian Peasant Multiplication\\
 	Mult(x, y)\\
 	\textbf{If} x = 1 \textbf{then} output y\\
-	\textbf{If} x is odd \textbf{then} output y + Mult([$\frac{x}{2}$],2y)\\
-	\textbf{If} x is even \textbf{then} output Mult($\frac{x}{2}$,2y)\\
+	\textbf{If} x is odd \textbf{then} output y + Mult([{\large $\frac{x}{2}$}],2y)\\
+	\textbf{If} x is even \textbf{then} output Mult({\large $\frac{x}{2}$},2y)\\
 	\includegraphics{lecture41}
 	\begin{itemize}
 	\item This method does work. Base case (x = 1) is verified. The step when x is even also works. The only tricky step is that x is odd when you divide x by 2, you actually divide x by 2 and minus a half, so that you need to add one y back.
@@ -58,7 +58,7 @@
 	\begin{itemize}
 	\item The recursive formula for the running time is:
 	
-	\hspace*{\fill} $T$(n) = 4 $\cdot$ $T$($\frac{n}{2}$) + $O$(n)\hspace*{\fill} 
+	\hspace*{\fill} {\large $T$(n) = 4 $\cdot$ $T$($\frac{n}{2}$) + $O$(n) } \hspace*{\fill} 
 	
 	Note: by padding some zeroes in front of the number, we can assume n is a power of 2.
 	\item Thus we have a = 4, b = 2, and d = 1.
@@ -98,7 +98,7 @@
 	\end{itemize}
 \item The recursive formula for the running time is: 
 
-	\hspace*{\fill} $T$(n) = 3 $\cdot$ $T$($\frac{n}{2}$) + $O$(n)\hspace*{\fill} 
+	\hspace*{\fill} {\large $T$(n) = 3 $\cdot$ $T$($\frac{n}{2}$) + $O$(n) } \hspace*{\fill} 
 	
 \item Thus we have a = 3, b = 2, and d = 1.
 \item This is Case 3 of the Master Theorem.
@@ -141,7 +141,7 @@ Then we perform n multiplications to calculate each entry of $Z$.
 \item Multiplying involves \textbf{eight products} with $\frac{n}{2}$ $\times$ $\frac{n}{2}$ matrices!
 \item The recursive formula for the running time is:
 	
-	\hspace*{\fill} $T$(n) = 8 $\cdot$ $T$($\frac{n}{2}$) + $O$($n^2$)\hspace*{\fill} 
+	\hspace*{\fill} {\large $T$(n) = 8 $\cdot$ $T$($\frac{n}{2}$) + $O$($n^2$) } \hspace*{\fill} 
 	
 	\item Thus we have a = 8, b = 2, and d = 2.
 	\item This is Case 3 of the Master Theorem.
@@ -159,7 +159,7 @@ Then we perform n multiplications to calculate each entry of $Z$.
 Note: Even though we now have 18 additions, the runtime is still dominated by the number of multiplications. Having additions would not hurt.
 \item The recursive formula for the running time is:
 	
-	\hspace*{\fill} $T$(n) = 7 $\cdot$ $T$($\frac{n}{2}$) + $O$($n^2$)\hspace*{\fill} 
+	\hspace*{\fill} {\large $T$(n) = 7 $\cdot$ $T$($\frac{n}{2}$) + $O$($n^2$) }\hspace*{\fill} 
 	
 	\item Thus we have a = 7, b = 2, and d = 2.
 	\item This is Case 3 of the Master Theorem.
@@ -183,16 +183,19 @@ Note: Even though we now have 18 additions, the runtime is still dominated by th
 	\item A faster way is to use the fact that $x^n$ = $x^{[\frac{n}{2}]}$ $\cdot$ $x^{[\frac{n}{2}]}$
 	\end{itemize}
 \item The latter method gives the following \textbf{recursive algorithm}.\\
-
+\\
+{\large
 \underline{Fast Exponentiation}\\
 \textbf{FastExp}(x,n)\\
 \textbf{If} n = 1 \textbf{then} output x\\
 \textbf{Else} \\
 \forceindent \textbf{If} n is even \textbf{then} output \textbf{FastExp}$(x,[\frac{n}{2}])^2$\\
 \forceindent \textbf{If} n is odd \textbf{then} output \textbf{x $\cdot$ FastExp}$(x,[\frac{n}{2}])^2$
-
+}
 \item The number of multiplications used in Fast Exponentiation satisfies:\\
-$T$(n) $\leq$ $T$($[\frac{n}{2}]$) + 2 $\Rightarrow$ $T$(n) = $T$($\frac{n}{2}$) + $O$(1)
+\\
+{\large
+$T$(n) $\leq$ $T$($[\frac{n}{2}]$) + 2 $\Rightarrow$ $T$(n) = $T$($\frac{n}{2}$) + $O$(1)}
 \item Thus we have a = 1, b = 2, and d = 0.
 \item This is Case 2 of the Master Theorem.
 \item Runtime = $O$($n^0 \cdot log{}n$) = $O$($log{}n$)

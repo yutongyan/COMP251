@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  20 JAN 2018 13:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,17 +265,17 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 27.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
 
 <lecture1a.png, id=1, 284.06125pt x 190.7125pt>
 File: lecture1a.png Graphic file (type png)
  <use lecture1a.png>
-Package pdftex.def Info: lecture1a.png used on input line 43.
+Package pdftex.def Info: lecture1a.png used on input line 45.
 (pdftex.def)             Requested size: 284.06053pt x 190.71202pt.
  [1
 
@@ -283,7 +283,7 @@ Package pdftex.def Info: lecture1a.png used on input line 43.
 <lecture1b.png, id=16, 284.06125pt x 189.70876pt>
 File: lecture1b.png Graphic file (type png)
  <use lecture1b.png>
-Package pdftex.def Info: lecture1b.png used on input line 71.
+Package pdftex.def Info: lecture1b.png used on input line 76.
 (pdftex.def)             Requested size: 284.06053pt x 189.70828pt.
 
 
@@ -296,13 +296,13 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 File: lecture1c.png Graphic file (type png)
 
 <use lecture1c.png>
-Package pdftex.def Info: lecture1c.png used on input line 73.
+Package pdftex.def Info: lecture1c.png used on input line 78.
 (pdftex.def)             Requested size: 227.8507pt x 281.0493pt.
  [3 <./lecture1b.png> <./lecture1c.png>]
 <lecture1d.png, id=28, 284.06125pt x 158.5925pt>
 File: lecture1d.png Graphic file (type png)
  <use lecture1d.png>
-Package pdftex.def Info: lecture1d.png used on input line 95.
+Package pdftex.def Info: lecture1d.png used on input line 101.
 (pdftex.def)             Requested size: 284.06053pt x 158.59209pt.
  [4
 
@@ -310,14 +310,14 @@ Package pdftex.def Info: lecture1d.png used on input line 95.
 File: lecture1e.png Graphic file (type png)
 
 <use lecture1e.png>
-Package pdftex.def Info: lecture1e.png used on input line 181.
+Package pdftex.def Info: lecture1e.png used on input line 188.
 (pdftex.def)             Requested size: 284.06053pt x 292.09052pt.
  [6] [7 <./lecture1e.png>] [8] (./Lecture 1.aux) ) 
 Here is how much of TeX's memory you used:
- 2839 strings out of 492995
- 38852 string characters out of 6132704
+ 2838 strings out of 492995
+ 38830 string characters out of 6132704
  112549 words of memory out of 5000000
- 6355 multiletter control sequences out of 15000+600000
+ 6354 multiletter control sequences out of 15000+600000
  10631 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,14n,43p,244b,520s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -332,7 +332,7 @@ fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/font
 s/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Lecture 1.pdf" (8 pages, 425377 bytes).
+Output written on "Lecture 1.pdf" (8 pages, 425543 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  51 compressed objects within 1 object stream

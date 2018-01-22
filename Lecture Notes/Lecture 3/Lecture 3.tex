@@ -26,12 +26,12 @@
 \item Recall, a divide-and-conquer algorithm recursively breaks up a problem of size n in smaller sub-problems such that:
 	\begin{itemize}
 	\item There are exactly a sub-problems.
-	\item Each sub-problem has size at most $\frac{1}{b}$ $\cdot$ n
+	\item Each sub-problem has size at most {\large $\frac{1}{b}$ $\cdot$ n}
 	\item Once solved, the solutions to the sub-problems can be \underline{combined} to produce 	a solution to the original problem in time $O$($n^d$)
 	\end{itemize}
 \item So the run-time of a divide and conquer algorithm satisfies the recurrence:
 
-\hspace*{\fill}\large{$T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$)} \hspace*{\fill} 
+\hspace*{\fill}{\large $T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$)} \hspace*{\fill} 
 
 \item Examples: MergeSort and Binary Search
 \end{itemize}
@@ -42,7 +42,8 @@
 \renewcommand{\labelitemiii}{$\cdot$}
 \renewcommand{\labelitemiii}{$\rightarrow$}
 \begin{itemize}
-\item \textbf{The Master Theorem}: If $T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$) for constants a $>$ 0, b $>$ 1, and d $\geq$ 0 then:
+\item \textbf{The Master Theorem}: If {\large $T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$) }for constants    \\
+a $>$ 0, b $>$ 1, and d $\geq$ 0 then:
 \begin{center}
 \includegraphics{lecture3a}
 \end{center}
@@ -98,8 +99,6 @@
 			\begin{center}
 			\includegraphics{lecture3j}
 			\end{center}
-			\noindent \\
-			\noindent \\
 			\item The parameters a, b, and d are \underline{not} constants.
 			\begin{center}
 			\includegraphics{lecture3k}
@@ -114,11 +113,11 @@
 \item The Master Theorem is a special case the the \textbf{recursion tree method}.
 \item Specifically, we model the \textit{divide and conquer} recursive formula by a tree:
 
-\hspace*{\fill}\large{$T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$)} \hspace*{\fill} 
+\hspace*{\fill}{\large $T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$)} \hspace*{\fill} 
 
 	\begin{itemize}
 	\item The \textbf{root} node of the trees has a label n.
-	\item The root has a children each with label $\frac{n}{b}$.
+	\item The root has a children each with label {\large $\frac{n}{b}$}.
 	\begin{center}
 	\includegraphics{lecture3l}
 	\end{center}

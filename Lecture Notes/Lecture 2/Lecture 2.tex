@@ -25,6 +25,7 @@
 \renewcommand{\labelitemii}{$\circ$}
 \renewcommand{\labelitemiii}{$\cdot$}
 \renewcommand{\labelitemiii}{$\rightarrow$}
+\renewcommand{\labelitemiv}{$\star$}
 \begin{itemize}
 \item Solving a problem by \textbf{reducing} it (or a sub-problem of it) to another problem is the most fundamental technique in algorithm design.
 \item Specifically, algorithm $A$ may use another algorithm $B$ as a sub-routine.
@@ -45,7 +46,8 @@
 \renewcommand{\labelitemiii}{$\rightarrow$}
 \begin{itemize}
 \item We can sort n numbers into non-decreasing order using the following algorithm:\\
-\large{
+\\
+{\large
 \noindent MergeSort($x_1$, $x_2$, ... , $x_n$)\\
 \noindent If n = 1 then output $x_1$\\
 \noindent Else output Merge\{MergeSort($x_1$, ... , $x_{\frac{n}{2}}$), MergeSort($x_{\frac{n}{2} + 			1}$, ... , $x_n$)\} }\\
@@ -100,9 +102,14 @@
 
 
 \section{Binary Search}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{$\cdot$}
+\renewcommand{\labelitemiii}{$\rightarrow$}
+\renewcommand{\labelitemiv}{$\star$}
 \begin{itemize}
 \item We can search for a key k in a sorted array of cardinality n using the binary search algorithm:\\
-\large{
+\\
+{\large
 \noindent BinarySearch($a_1$, $a_2$, ... , $a_n$ : k)\\
 \noindent While n $>$ 0 do: \\
 		 If $a_{\frac{n}{2}}$ = k output YES\\
@@ -133,30 +140,38 @@
 	\end{center}	
 	\end{enumerate}
 	\end{itemize}
-	
+\end{itemize}	
 	
 	
 	
 \section{Divide and Conquer Algorithms}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{$\cdot$}
+\renewcommand{\labelitemiii}{$\rightarrow$}
+\renewcommand{\labelitemiv}{$\star$}
 \begin{itemize}
 \item A \textbf{divide and conquer} algorithm recursively breaks up a problem of size n in smaller sub-problems such that:
 	\begin{itemize}
 	\item There are exactly a sub-problems.
-	\item Each sub-problem has size at most $\frac{1}{b}$ $\cdot$ n
+	\item Each sub-problem has size at most {\large $\frac{1}{b}$ $\cdot$ n}
 	\item Once solved, the solutions to the sub-problems can be \underline{combined} to produce 	a solution to the original problem in time $O$($n^d$)
 	\end{itemize}
-
 \item So the run-time of a divide and conquer algorithm satisfies the recurrence:\\
-\hspace*{\fill}\large{$T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$)} \hspace*{\fill} \\
+\\
+\hspace*{\fill}{\large $T$(n) = a $\cdot$ $T$($\frac{n}{b}$) + $O$($n^d$)} \hspace*{\fill} \\
 \item MergeSort and Binary Search are indeed \textbf{divide and conquer} algorithms.
-\begin{center}
-\includegraphics{lecture2g}
-\end{center}	
+	\begin{center}
+	\includegraphics{lecture2g}
+	\end{center}	
 \end{itemize}
-\end{itemize}
+
 
 
 \section{Non-Military Applications of Divide and Conquer}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{$\cdot$}
+\renewcommand{\labelitemiii}{$\rightarrow$}
+\renewcommand{\labelitemiv}{$\star$}
 \begin{itemize}
 \item Divide and Conquer has many other non-military, practical applications:
 	\begin{itemize}
@@ -168,6 +183,10 @@
 \end{itemize}
 
 \section{Dummy Entries}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{$\cdot$}
+\renewcommand{\labelitemiii}{$\rightarrow$}
+\renewcommand{\labelitemiv}{$\star$}
 \begin{itemize}
 \item MergeSort actually has the recurrence:
 	\begin{center}
@@ -182,29 +201,29 @@
 		\end{center}
 	\item But we also have: 
 		\begin{center}
-		\includegraphics{lecture2j}
+		{\large $\hat{T}(n) \leq T(\bar{n}) = O(\bar{n} \cdot \log{}\bar{n}) = O(n \cdot \log{}n) $}
 		\end{center}
 	\end{itemize}
 \item Here is another way to solve the recurrence:
 	\begin{center}
-	\includegraphics{lecture2h}
+	{\large $\hat{T}(n) = \hat{T}([\frac{n}{2}]) + \hat{T}([\frac{n}{2}]) + c \cdot n$}
 	\end{center}
 	\begin{itemize}
 	\item As we only want to upper bound the running time, we can use:
 	\begin{center}
-	\includegraphics{lecture2k}
+	{\large $\hat{T}(n) \leq \hat{T}(\frac{n}{2} + 1) + c \cdot n$}
 	\end{center}
-	\item This +1 does not seem to fit with our methodology, but we can fix this by applying a 			\textbf{domain transformation}.
+	Note: This +1 does not seem to fit with our methodology, but we can fix this by applying a 			\textbf{domain transformation}.
 	\end{itemize}
 \item Domain Tranformation
 	\begin{itemize}
-	\item For the domain transformation, simply set: \large{$T$(n) = $\hat{T}$(n + 2)}
-	\item Thus we have: \large{$T$(n) = $T$(${\frac{n}{2}}$) + $\hat{c}$ $\cdot$ n}
+	\item For the domain transformation, simply set: {\large $T$(n) = $\hat{T}$(n + 2)}
+	\item Thus we have: {\large $T$(n) = $T$(${\frac{n}{2}}$) + $\hat{c}$ $\cdot$ n}
 		\begin{center}
 		\includegraphics{lecture2l}
 		\end{center}
-	\item Of course, we can solve this recurrence as: \large{$T$(n) = $O$(n $\cdot$ $\log{}n$)}
-	\item Therefore, \large{$\hat{T}$(n) = $T$(n - 2) = $O$(n $\cdot$ $\log{}n$)}
+	\item Of course, we can solve this recurrence as: {\large $T$(n) = $O$(n $\cdot$ $\log{}n$)}
+	\item Therefore, {\large $\hat{T}$(n) = $T$(n - 2) = $O$(n $\cdot$ $\log{}n$)}
 	\item As well as ceilings and floors, domain transformations can be used to 
 	$\underline{simplify}$ many other recurrences; e.g. removing lower order terms.
 	\end{itemize}
