@@ -188,10 +188,10 @@ $G_1 = \{x_1, \cdot \cdot \cdot, x_5\}, G_2 = \{x_6, \cdot \cdot \cdot, x_{10}\}
 \item Let \textcolor{red}{m} be the \textbf{median} of {\large $Z$ = \{$z_1$, $z_2$, $\cdot$ $\cdot$ $\cdot$, $z_{\frac{n}{5}}$\}}
 \item As a thought experiment, \underline{reorder} the groups their median values:\\
 \includegraphics{lecture57}
-\item The \textbf{median of the medians} is greater than at least {\large $\frac{3}{10} \cdot (n - 1)$ }numbers in $S$\\
+\item The \textbf{median of the medians} is greater than at least {\large $\frac{3n}{10} - 1$ }numbers in $S$\\
 \\
 $\Rightarrow$     {\large $|S_R| = |\{x_i \in S \setminus m : x_i \geq m\}| \leq \frac{7}{10} \cdot n$}
-\item There are at least {\large $\frac{3}{10} \cdot (n - 1)$ } numbers in $S$ that are at least as big as m.\\
+\item There are at least {\large $\frac{3n}{10}  - 1$ } numbers in $S$ that are at least as big as m.\\
 \\
 $\Rightarrow$     {\large $|S_L| = |\{x_i \in S : x_i < m\}| \leq \frac{7}{10} \cdot n$}\\
 \includegraphics{lecture58}
@@ -203,9 +203,23 @@ $\Rightarrow$    {\large $max\{|S_L|, |S_R|\} \leq \frac{7}{10} \cdot n$}
 	\begin{itemize}
 	\item Using the same \textbf{deterministic recursive algorithm}!
 	\end{itemize}
-\end{itemize}
-{\large
-\underline{Deterministic Selection}\\
+\end{itemize} 
+;)
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+\\
+{\large \underline{Deterministic Selection}\\
 \\
 \textbf{DetSelect}($S$, k)\\
 \textbf{If} $|S|$ = 1 \textbf{then} output $x_1$\\

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  22 JAN 2018 00:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  26 JAN 2018 21:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -371,7 +371,7 @@ Here is how much of TeX's memory you used:
  6368 multiletter control sequences out of 15000+600000
  9925 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,14n,43p,244b,610s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,15n,43p,244b,610s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/
@@ -384,7 +384,7 @@ e1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
 /public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
 blic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb>
-Output written on "Lecture 2.pdf" (9 pages, 701900 bytes).
+Output written on "Lecture 2.pdf" (9 pages, 700342 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  56 compressed objects within 1 object stream

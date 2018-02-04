@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  21 JAN 2018 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 JAN 2018 08:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -446,47 +446,112 @@ Underfull \hbox (badness 10000) in paragraph at lines 198--201
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--224
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 208--224
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 207--238
 
  []
 
 [8 <./lecture58.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 225--228
+Underfull \hbox (badness 10000) in paragraph at lines 239--242
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--233
+Underfull \hbox (badness 10000) in paragraph at lines 242--247
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 228--233
+Underfull \hbox (badness 10000) in paragraph at lines 242--247
 
  []
 
 <lecture59.png, id=57, 284.06125pt x 283.0575pt>
 File: lecture59.png Graphic file (type png)
  <use lecture59.png>
-Package pdftex.def Info: lecture59.png used on input line 244.
+Package pdftex.def Info: lecture59.png used on input line 258.
 (pdftex.def)             Requested size: 284.06053pt x 283.0568pt.
 
 <lecture510.png, id=58, 284.06125pt x 303.1325pt>
 File: lecture510.png Graphic file (type png)
  <use lecture510.png>
-Package pdftex.def Info: lecture510.png used on input line 245.
+Package pdftex.def Info: lecture510.png used on input line 259.
 (pdftex.def)             Requested size: 284.06053pt x 303.13176pt.
  [9]
 [10 <./lecture59.png>] [11 <./lecture510.png>] (./Lecture 5.aux) ) 
 Here is how much of TeX's memory you used:
  3127 strings out of 492995
  43679 string characters out of 6132704
- 116937 words of memory out of 5000000
+ 117937 words of memory out of 5000000
  6627 multiletter control sequences out of 15000+600000
  11418 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -504,7 +569,7 @@ exmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2017/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Lecture 5.pdf" (11 pages, 1042304 bytes).
+Output written on "Lecture 5.pdf" (11 pages, 1042393 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  63 compressed objects within 1 object stream

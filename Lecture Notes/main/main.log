@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  22 JAN 2018 00:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  29 JAN 2018 10:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1151,36 +1151,248 @@ File: lecture5.pdf Graphic file (type pdf)
 <use lecture5.pdf, page 11>
 Package pdftex.def Info: lecture5.pdf, page11 used on input line 12.
 (pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
- [53 <./lecture5.pdf>] (./main.aux) ) 
+ [53 <./lecture5.pdf>]
+<lecture6.pdf, id=588, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf>
+Package pdftex.def Info: lecture6.pdf used on input line 13.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf>
+Package pdftex.def Info: lecture6.pdf used on input line 13.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+ <lecture6.pdf, id=591, page=1, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 1>
+Package pdftex.def Info: lecture6.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 1>
+Package pdftex.def Info: lecture6.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 1>
+Package pdftex.def Info: lecture6.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 1>
+Package pdftex.def Info: lecture6.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 1>
+Package pdftex.def Info: lecture6.pdf, page1 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [54 <./lecture6.pdf>]
+<lecture6.pdf, id=631, page=2, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 2>
+Package pdftex.def Info: lecture6.pdf, page2 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 2>
+Package pdftex.def Info: lecture6.pdf, page2 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 2>
+Package pdftex.def Info: lecture6.pdf, page2 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [55 <./lecture6.pdf>]
+<lecture6.pdf, id=641, page=3, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 3>
+Package pdftex.def Info: lecture6.pdf, page3 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 3>
+Package pdftex.def Info: lecture6.pdf, page3 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 3>
+Package pdftex.def Info: lecture6.pdf, page3 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [56 <./lecture6.pdf>]
+<lecture6.pdf, id=650, page=4, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 4>
+Package pdftex.def Info: lecture6.pdf, page4 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 4>
+Package pdftex.def Info: lecture6.pdf, page4 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 4>
+Package pdftex.def Info: lecture6.pdf, page4 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [57 <./lecture6.pdf>]
+<lecture6.pdf, id=659, page=5, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 5>
+Package pdftex.def Info: lecture6.pdf, page5 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 5>
+Package pdftex.def Info: lecture6.pdf, page5 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 5>
+Package pdftex.def Info: lecture6.pdf, page5 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [58 <./lecture6.pdf>]
+<lecture6.pdf, id=663, page=6, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 6>
+Package pdftex.def Info: lecture6.pdf, page6 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 6>
+Package pdftex.def Info: lecture6.pdf, page6 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 6>
+Package pdftex.def Info: lecture6.pdf, page6 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [59 <./lecture6.pdf>]
+<lecture6.pdf, id=670, page=7, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 7>
+Package pdftex.def Info: lecture6.pdf, page7 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 7>
+Package pdftex.def Info: lecture6.pdf, page7 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 7>
+Package pdftex.def Info: lecture6.pdf, page7 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [60 <./lecture6.pdf>]
+<lecture6.pdf, id=677, page=8, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 8>
+Package pdftex.def Info: lecture6.pdf, page8 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 8>
+Package pdftex.def Info: lecture6.pdf, page8 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 8>
+Package pdftex.def Info: lecture6.pdf, page8 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [61 <./lecture6.pdf>]
+<lecture6.pdf, id=685, page=9, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 9>
+Package pdftex.def Info: lecture6.pdf, page9 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 9>
+Package pdftex.def Info: lecture6.pdf, page9 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 9>
+Package pdftex.def Info: lecture6.pdf, page9 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [62 <./lecture6.pdf>]
+<lecture6.pdf, id=692, page=10, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 10>
+Package pdftex.def Info: lecture6.pdf, page10 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 10>
+Package pdftex.def Info: lecture6.pdf, page10 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 10>
+Package pdftex.def Info: lecture6.pdf, page10 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [63 <./lecture6.pdf>]
+<lecture6.pdf, id=701, page=11, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 11>
+Package pdftex.def Info: lecture6.pdf, page11 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 11>
+Package pdftex.def Info: lecture6.pdf, page11 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 11>
+Package pdftex.def Info: lecture6.pdf, page11 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [64 <./lecture6.pdf>]
+<lecture6.pdf, id=705, page=12, 614.295pt x 794.97pt>
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 12>
+Package pdftex.def Info: lecture6.pdf, page12 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+ <use lecture6.pdf, page 12>
+Package pdftex.def Info: lecture6.pdf, page12 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: lecture6.pdf Graphic file (type pdf)
+
+<use lecture6.pdf, page 12>
+Package pdftex.def Info: lecture6.pdf, page12 used on input line 13.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [65 <./lecture6.pdf>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 3093 strings out of 492995
- 45556 string characters out of 6132704
+ 3135 strings out of 492995
+ 46424 string characters out of 6132704
  107726 words of memory out of 5000000
- 6614 multiletter control sequences out of 15000+600000
+ 6654 multiletter control sequences out of 15000+600000
  3640 words of font info for 14 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  40i,18n,46p,256b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2017/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mti12.pfb>
-Output written on main.pdf (53 pages, 4625885 bytes).
+type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ti12.pfb>
+Output written on main.pdf (65 pages, 5058261 bytes).
 PDF statistics:
- 610 PDF objects out of 1000 (max. 8388607)
- 365 compressed objects within 4 object streams
+ 733 PDF objects out of 1000 (max. 8388607)
+ 435 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 341 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 416 words of extra memory for PDF output out of 10000 (max. 10000000)
 
