@@ -454,8 +454,24 @@ Note that X and Y are both independent sets.
 	\item Let $s_0$ be matched to $b_1$ in M
 	\item As Hall's condition holds we have: $|\tau(\{b_0, b_1\})| \geq |\{b_0, b_1\}| = 2$
 	\item So either $b_0$ or $b_1$ has a neighbour $s_1 \neq s_0$
-	\item Let $$
-	\end{itemize}
+	\item Let $s_1$ be matched to $b_2$ in M.
+	\item As Hall's condition holds we have: $|\tau(\{b_0, b_1, b_2\})| \geq |\{b_0, b_1, b_2\}| = 3$
+	\item So either $\{b_0, b_1, b_2\}$ has a neighbour $s_2  \neq \{s_0, s_1\}$
+	\item As Hall's condition holds we have: $|\tau(\{b_0, b_1, b_2, b_3\})| \geq |\{b_0, b_1, b_2, b_3\}| = 4$
+	\item So either $\{b_0, b_1, b_2, b_3\}$ has a neighbour $s_3  \neq \{s_0, s_1, s_2\}$\
+	\item ...
+	\item The graph contains a finite number of nodes so this process must terminate.
+	\item The process can only terminate if we reach an unmatched node  $s_k \in S$
+	\item Using the edges we have found we can trace back a \textbf{path} P from $s_k$ to $b_0$ that alternates between using non-matching edges and matching edges.
+	\item \textbf{Swapping} the matching and non-matching edges gives one extra matching edge.
+	\item Note this is still a \underline{valid} matching. Firstly, the internal nodes of P are still incident to exactly one matching edge.
+	\item Secondly, its end-nodes, $s_k$ and $b_0$, were previously unmatched so are now incident to exactly one edge in the new matching.
+	\item This contradicts the fact that M was a maximum cardinality matching.
+	\begin{center}
+	\includegraphics{lecture723}
+	\includegraphics{lecture724}
+	\end{center}
+	\end{itemize} 
 \end{itemize}
 
 

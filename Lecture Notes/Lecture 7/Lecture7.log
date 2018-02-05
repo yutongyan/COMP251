@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  25 JAN 2018 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2018.1.13)  5 FEB 2018 18:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -432,30 +432,43 @@ File: lecture722.png Graphic file (type png)
 <use lecture722.png>
 Package pdftex.def Info: lecture722.png used on input line 401.
 (pdftex.def)             Requested size: 198.742pt x 48.17986pt.
- [13 <./lecture720.png> <./lecture721.png>] [14 <./lecture722.png>] [15] (./Lec
-ture7.aux) ) 
+ [13 <./lecture720.png> <./lecture721.png>] [14 <./lecture722.png>] <lecture723
+.png, id=101, 284.06125pt x 176.66pt>
+File: lecture723.png Graphic file (type png)
+ <use lecture723.png>
+Package pdftex.def Info: lecture723.png used on input line 471.
+(pdftex.def)             Requested size: 284.06053pt x 176.65956pt.
+
+<lecture724.png, id=102, 284.06125pt x 181.67876pt>
+File: lecture724.png Graphic file (type png)
+ <use lecture724.png>
+Package pdftex.def Info: lecture724.png used on input line 472.
+(pdftex.def)             Requested size: 284.06053pt x 181.6783pt.
+
+[15] [16 <./lecture723.png> <./lecture724.png>] (./Lecture7.aux) ) 
 Here is how much of TeX's memory you used:
- 3184 strings out of 492995
- 44667 string characters out of 6132704
- 117877 words of memory out of 5000000
- 6671 multiletter control sequences out of 15000+600000
+ 3194 strings out of 492995
+ 44845 string characters out of 6132704
+ 118877 words of memory out of 5000000
+ 6679 multiletter control sequences out of 15000+600000
  10499 words of font info for 38 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 39i,16n,43p,241b,454s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmm
-i8.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12
-.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.p
-fb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb>
-</usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-/usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></u
-sr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Lecture7.pdf (15 pages, 939041 bytes).
+ 39i,16n,43p,241b,458s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/t
+exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/te
+xlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/tex
+live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texl
+ive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texliv
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
+2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/20
+17/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2017/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2017/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2017/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on Lecture7.pdf (16 pages, 1053266 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
+ 144 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
 
